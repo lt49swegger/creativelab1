@@ -1,0 +1,54 @@
+.joke1{
+    display: none
+}
+.joke2{
+    display: none
+}
+.joke3{
+    display: none
+}
+.joke4{
+    display: none
+}
+.joke5{
+    display: none
+}
+body{
+    background-color: rgb(50,50,50);
+}
+html{
+    background-color: rgb(50,50,50);
+    color:white;
+}
+header{
+    background-color: rgb(50,50,50);
+    color:white;
+    text-align:center;
+}
+.home{
+    
+    height: 50%;
+    width: 100%;
+    
+}
+
+iframe.frame {
+    display: block;
+    margin: 0 auto;
+    border: 0;
+    background-color: gray
+
+}
+
+section {
+    margin: 10px auto;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    display: flex;
+}
+
+div.Descrip {
+    padding: 50px;
+    
+}
